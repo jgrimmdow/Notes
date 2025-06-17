@@ -2,6 +2,10 @@
 
 ## June 2025
 
+### Monday, June 16, 2025
+
+This is a note about [[inbox]]
+
 ### Tuesday, June 17, 2025
 
 AILM
